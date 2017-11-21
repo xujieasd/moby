@@ -14,7 +14,6 @@ import (
 	"github.com/docker/engine-api/types"
 	"github.com/docker/go-units"
 	"golang.org/x/net/context"
-	"src/github.com/docker/go-units"
 )
 
 type containerStats struct {
